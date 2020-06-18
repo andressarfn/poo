@@ -35,7 +35,7 @@
 	<!-- Propriedades do propjeto -->
 	<properties>
 		  <sonar.projectKey>andressa</sonar.projectKey>
-		  <sonar.organization>andressarfn</sonar.organization>
+		  <sonar.organization>fujioka</sonar.organization>
 		  <sonar.host.url>http://ip172-18-0-55-brlbroroudsg00ensuqg-9000.direct.labs.play-with-docker.com</sonar.host.url>
 		  <sonar.login>13db9cd7a3d34a379bf79a31e58739b05e1c1477</sonar.login>
 		<maven.compiler.source>1.8</maven.compiler.source>
