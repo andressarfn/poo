@@ -34,10 +34,10 @@
 
 	<!-- Propriedades do propjeto -->
 	<properties>
-		  <sonar.projectKey>andressarfn_poo</sonar.projectKey>
+		  <sonar.projectKey>andressa</sonar.projectKey>
 		  <sonar.organization>andressarfn</sonar.organization>
-		  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		  <sonar.login>794f72fa02dce020b1a1fa6d4c91949c42da77d8</sonar.login>
+		  <sonar.host.url>http://ip172-18-0-55-brlbroroudsg00ensuqg-9000.direct.labs.play-with-docker.com</sonar.host.url>
+		  <sonar.login>13db9cd7a3d34a379bf79a31e58739b05e1c1477</sonar.login>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
